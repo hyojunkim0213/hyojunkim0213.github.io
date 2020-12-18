@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
-comments: false
+title: About Me
+tags: [HYOJUNKIM]
+date: 2020-12-19
+comments: True
 ---
 
-<center><a href='assets/img/CV_me.jpg'><b>KIM HYO JUN</b></a> Interested in Machine learning, AI, NLP.</center>
+<center>![CV_me](https://user-images.githubusercontent.com/28617444/102630346-c9ff1b80-418f-11eb-90b4-d6b43a42bd27.jpg)<br><b>KIM HYO JUN</b><br>
+</a> Interested in Machine learning, AI, NLP.</center>
 
 
 <p> 안녕하세요 :) </p>
@@ -14,8 +15,6 @@ comments: false
 <p>찾아와주셔서 감사합니다.</p>
 
 ## Introduction
-> HYOJUN KIM (김효준)
-
 * "1997. 2. 13"
 * 경희대학교 산업경영공학과 3학년 재학
 * 경희대학교 BIG Data Lab 학부연구생(20.07 ~ing)
@@ -62,21 +61,21 @@ Intensive Engineering Program
 
  ---
 
- ## More
+## More
 
- ### Specialized in:
+### Specialized in:
 
  - Optimization
  - Statistics
  - Data Science / Python, Pandas, Numpy, Matplotlib, Seaborn, R
  - Deep Learning / Tensorflow, Keras
 
- ### Languages
+### Languages
 
  - Korean
  - English
 
- ### Extra:
+### Extra:
 
  - Leadership – Worked as Club President
  - Skillful at Python, R
@@ -87,16 +86,8 @@ Intensive Engineering Program
  ---
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* Machine learning
+* Re
 
 ## Preview
 
