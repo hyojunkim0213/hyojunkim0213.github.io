@@ -5,14 +5,17 @@ tags: [HYOJUNKIM]
 date: 2020-12-19
 comments: True
 ---
-
-<center>![CV_me](https://user-images.githubusercontent.com/28617444/102630346-c9ff1b80-418f-11eb-90b4-d6b43a42bd27.jpg)<br><b>KIM HYO JUN</b><br>
+<center>
+<img src="/assets/img/CV_me.jpg" width="300" height="300">
+<br><b>KIM HYO JUN</b><br>
 </a> Interested in Machine learning, AI, NLP.</center>
 
 
 <p> 안녕하세요 :) </p>
 <p>제가 공부하고 있는 것들을 틈틈히 정리하는 블로그입니다.</p>
 <p>찾아와주셔서 감사합니다.</p>
+
+ ---
 
 ## Introduction
 * "1997. 2. 13"
@@ -84,23 +87,3 @@ Intensive Engineering Program
  - Interested in NLP
 
  ---
-
-## Features
-* Machine learning
-* Re
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
