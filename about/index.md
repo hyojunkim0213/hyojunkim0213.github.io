@@ -3,12 +3,12 @@ layout: page
 title: About Me
 tags: [HYOJUNKIM]
 date: 2020-12-19
-comments: True
+comments: false
 ---
 <center>
 <img src="/assets/img/CV_me.jpg" width="300" height="300">
 <br><b>KIM HYO JUN</b><br>
-</a> Interested in Machine learning, AI, NLP.</center>
+Interested in Machine learning, AI, NLP.</center>
 
 
 <p> 안녕하세요 :) </p>
@@ -29,12 +29,12 @@ comments: True
 | Name                                        | Description                                           | More Information
 | ------------------------------------------- | ----------------------------------------------------- | ---------------------- |
 | (Web) Reservation System(2017-1) | Overall development with HTML, PHP, SQL   |
-| (ML) Sentimental Analysis(2019-2) | Overall development with Python (Keras)  | [Go to post]({% post_url 2012-05-22-readability-post %})
-| (Data Visualization) Cafemap (2020-1) | Overall development with Python (Selenium, folium)  |[Go to Link]({% post_url 2012-05-22-readability-post %}){: .btn .btn--success}
+| (ML) Sentimental Analysis(2019-2) | Overall development with Python (Keras)  | [Go to post]({% post_url 2020-09-05-cafemap %})
+| (Data Visualization) Cafemap (2020-1) | Overall development with Python (Selenium, folium)  |[Go to Link]({% post_url 2020-09-05-cafemap %}){: .btn .btn--success}
 | (Study) H1GHR DEV. STUDY<br>(2020.03.16 ~ 2020.04.20) | Studied Javascript, Notion, Slack etc.  | [Go to Link](https://www.notion.so/h1ghr/H1ghr-846547f6ea614adea824ca61828931f9){: .btn .btn--success}  <br>
-| (Data Analysis) Classification Analysis(2020-1) | Overall development with R |[Go to post]({% post_url 2012-05-22-readability-post %})
-| (Data Analysis) K-means Analysis(2020-1) | Overall development with R |[Go to post]({% post_url 2012-05-22-readability-post %})
-| (Hackathon) 경희대 해커톤 우수상 수상(2020-2) | Overall development with Python,Javascript,Django |[Go to post]({% post_url 2012-05-22-readability-post %})
+| (Data Analysis) Classification Analysis(2020-1) | Overall development with R |[Go to post]({% post_url 2020-09-05-cafemap %})
+| (Data Analysis) K-means Analysis(2020-1) | Overall development with R |[Go to post]({% post_url 2020-09-05-cafemap %})
+| (Hackathon) 경희대 해커톤 우수상 수상(2020-2)| Overall development with Python,Javascript,Django |[Go to post]({% post_url 2020-09-05-cafemap %})
 | (Study) NLP 논문 스터디(2020-2) | Studied with BOAZ members | [Go to Link](https://www.notion.so/NLP-_boaz-3ae6d6af810243e599af7e3dfe0fcd21){: .btn .btn--success}  <br>
 
 ## Education
@@ -51,16 +51,6 @@ Intensive Engineering Program
  - 데이터분석 준전문가 자격증 (ADSP)
  - [TensorFlow Developers Certificate](https://www.credential.net/9d0112c9-3078-4433-b416-c3f12a9f13e6)
 
-
- [header-image-post]: {{ "" | relative_url }}{% post_url 2012-05-22-readability-post %}
- [gallery-post]: {{ "" | relative_url }}{% post_url 2012-05-22-readability-post %}
- [html-tags-post]: {{ "" | relative_url }}{% post_url 2012-05-22-readability-post %}
- [syntax-post]: {{ "" | relative_url }}{% post_url 2012-05-22-readability-post %}
-
- [sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
- [categories-archive]: {{ "/categories/" | relative_url }}
- [tags-archive]: {{ "/tags/" | relative_url }}
- [year-archive]: {{ "/year-archive/" | relative_url }}
 
  ---
 
