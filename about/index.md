@@ -6,7 +6,7 @@ date: 2020-12-19
 comments: false
 ---
 <center>
-<img src="/assets/img/CV_me.jpg" width="300" height="300">
+<img src="/assets/img/CV_me.jpg" width="150" height="200">
 <br><b>KIM HYO JUN</b><br>
 Interested in Machine learning, AI, NLP.</center>
 
