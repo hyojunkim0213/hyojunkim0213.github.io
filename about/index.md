@@ -32,10 +32,8 @@ Interested in Machine learning, AI, NLP.</center>
 | (DL) Sentimental Analysis(2019-2) | Overall development with Python (Keras)  | [Go to Link](https://github.com/rlagywns0213/Sentimental_Analysis){: .btn .btn--success}
 | (Data Visualization) Cafemap (2020-1) | Overall development with Python (Selenium, folium)  |[Go to Link]({% post_url 2020-09-05-cafemap %}){: .btn .btn--success}
 | (Study) H1GHR DEV. STUDY<br>(2020.03.16 ~ 2020.04.20) | Studied Javascript, Notion, Slack etc.  | [Go to Link](https://www.notion.so/h1ghr/H1ghr-846547f6ea614adea824ca61828931f9){: .btn .btn--success}  <br>
-| (Data Analysis) Classification Analysis(2020-1) | Overall development with R |[Go to post]({% post_url 2020-09-05-cafemap %})
-| (Data Analysis) K-means Analysis(2020-1) | Overall development with R |[Go to post]({% post_url 2020-09-05-cafemap %})
 | (Hackathon) 경희대 해커톤 우수상 수상(2020-2)| Overall development with Python,Javascript,Django |[Go to post]({% post_url 2020-09-05-cafemap %})
-| (DL) Sentimental Analysis_bertmodel | Overall development with Python (keras,transformer)  | [Go to Link](https://github.com/rlagywns0213/Sentimental_Analysis_bert){: .btn .btn--success} 
+| (DL) Sentimental Analysis_bertmodel | Overall development with Python (keras,transformer)  | [Go to Link](https://github.com/rlagywns0213/Sentimental_Analysis_bert){: .btn .btn--success}
 | (Study) NLP 논문 스터디(2020-2) | Studied with BOAZ members | [Go to Link](https://www.notion.so/NLP-_boaz-3ae6d6af810243e599af7e3dfe0fcd21){: .btn .btn--success}  <br>
 
 ## Education
