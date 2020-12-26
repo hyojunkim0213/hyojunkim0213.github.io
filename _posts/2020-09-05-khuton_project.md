@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "경희대 해커톤 우수상 수상 - 머신러닝 모델을 활용한 BMTI 사이트 구축 (모델링 편)"
+title: "경희대 해커톤 우수상 수상 - 머신러닝 모델을 활용한 BMTI 사이트 구축"
 date: 2020-11-30
 excerpt: " BMTI는 국민건강영양조사의 식품섭취빈조사 데이터를 통해 BMI 수치를 예측하여 솔루션을 제공하는 사이트입니다."
 tags: [Machine learning, classification]
