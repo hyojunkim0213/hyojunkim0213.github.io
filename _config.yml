@@ -5,7 +5,7 @@ description:        "새로운 것을 경험하고 배우는 것을 좋아합니
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/CV_me.jpg'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/back.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://hyojunkim0213.github.io
