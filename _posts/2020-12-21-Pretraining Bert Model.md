@@ -3,9 +3,9 @@ layout: post
 title:  "Pretraining Bert Model"
 date:   2020-12-21
 excerpt: "pretrained-Bert 모델 사용이 아닌 직접 사전학습 프로세스를 정리하고자 한다."
-project: true
+NLP_review: true
 tag:
-- Bert
+- NLP
 comments: false
 ---
 
