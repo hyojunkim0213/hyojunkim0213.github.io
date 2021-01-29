@@ -23,6 +23,14 @@ Interested in Machine learning, AI, NLP.</center>
 * 경희대학교 BIG Data Lab 학부연구생(20.07 ~ing)
 * 빅데이터연합동아리 [Boaz](https://www.facebook.com/BOAZbigdata/) 15기 분석
 * 대한민국 해양의무경찰 (17.08.21 ~ 19.06.29)
+* 올빅뎃 인턴 (20.12.21 ~ 21.02.15)
+
+      1) 데이터 수집 및 전처리
+      - 국내 API 데이터베이스 구축(정·동적 크롤링)
+      - 중복·결측치·유사 데이터 관리 및 카테고리 매핑
+
+      2) DOM 기반 스크래핑 기법 개발
+      - 기존 홈페이지 구조가 변하더라도 스크래핑 가능한 기법 직접 개발 (재귀적 함수 사용)
 
 ## Project Experience
 
