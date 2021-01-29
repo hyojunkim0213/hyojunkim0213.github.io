@@ -29,7 +29,7 @@ Interested in Machine learning, AI, NLP.</center>
       - 국내 API 데이터 수집(정·동적 크롤링) 및 정제
       - 중복·결측치·유사 데이터 관리 및 카테고리 매핑
       - API 데이터베이스 구축(DBeaver, pymysql)
-
+      
       2) DOM 기반 스크래핑 기법 개발
       - 기존 홈페이지 구조가 변하더라도 스크래핑 가능한 기법 직접 개발 (재귀적 함수 사용)
 
